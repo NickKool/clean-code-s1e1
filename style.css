@@ -18,9 +18,9 @@
 }
 
 @media (max-width:768px) {
-.main-img { 
-    text-align: center;
-}
+    .main-img { 
+        text-align: center;
+    }
 }
 .main-page {
     display: block;
